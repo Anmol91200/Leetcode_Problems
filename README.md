@@ -19,8 +19,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0164-maximum-gap) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
