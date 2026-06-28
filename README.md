@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
