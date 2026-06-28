@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
 | [0561-array-partition](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
