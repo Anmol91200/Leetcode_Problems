@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -161,8 +163,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
