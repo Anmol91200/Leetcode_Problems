@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -207,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
