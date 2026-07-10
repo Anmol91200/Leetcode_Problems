@@ -176,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
