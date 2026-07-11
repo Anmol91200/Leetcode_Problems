@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0561-array-partition](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0605-can-place-flowers) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |
