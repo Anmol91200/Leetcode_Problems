@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
