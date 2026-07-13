@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anmol91200/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anmol91200/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anmol91200/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
