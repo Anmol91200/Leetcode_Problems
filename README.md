@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
 ## Greedy
 |  |
