@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0164-maximum-gap) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0130-surrounded-regions) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 ## Math
