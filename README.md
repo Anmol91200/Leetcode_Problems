@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
