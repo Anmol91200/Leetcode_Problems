@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0561-array-partition](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 ## String
 |  |
