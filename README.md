@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0113-path-sum-ii) |
