@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
