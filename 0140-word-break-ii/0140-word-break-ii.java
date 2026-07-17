@@ -9,9 +9,9 @@ class Solution {
     }
 
     private List<String> backtrack(String s, Set<String> wordSet) {
-        // if (memo.containsKey(s)) {
-            // return memo.get(s);
-        // }
+        if (memo.containsKey(s)) {
+            return memo.get(s);
+        }
         
         List<String> res = new ArrayList<>();
         if (s.isEmpty()) {
