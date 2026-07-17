@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -344,11 +349,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -379,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
