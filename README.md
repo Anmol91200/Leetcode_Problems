@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0299-bulls-and-cows](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [1331-rank-transform-of-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
+| [0299-bulls-and-cows](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Greedy
 |  |
