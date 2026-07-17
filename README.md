@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0162-find-peak-element) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0229-majority-element-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 ## Math
 |  |
 | ------- |
@@ -363,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
