@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
