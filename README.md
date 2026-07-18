@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
