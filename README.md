@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
