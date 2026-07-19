@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0332-reconstruct-itinerary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -229,11 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
