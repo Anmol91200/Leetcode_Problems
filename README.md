@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0140-word-break-ii) |
