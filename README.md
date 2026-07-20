@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0332-reconstruct-itinerary) |
+| [0341-flatten-nested-list-iterator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anmol91200/Leetcode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0341-flatten-nested-list-iterator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 ## Data Stream
 |  |
 | ------- |
@@ -434,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0332-reconstruct-itinerary) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
