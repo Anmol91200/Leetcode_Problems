@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
