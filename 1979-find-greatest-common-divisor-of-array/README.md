@@ -25,7 +25,6 @@ The largest number in nums is 8.
 The greatest common divisor of 3 and 8 is 1.
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [3,3]
