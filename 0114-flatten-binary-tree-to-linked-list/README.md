@@ -20,7 +20,7 @@
 <strong>Output:</strong> []
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
+<p><strong class="example">Example 3:-</strong></p>
 
 <pre>
 <strong>Input:</strong> root = [0]
