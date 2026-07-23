@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Counting Sort
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0479-largest-palindrome-product](https://github.com/Anmol91200/Leetcode_Problems/tree/master/0479-largest-palindrome-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anmol91200/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anmol91200/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
