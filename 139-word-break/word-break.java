@@ -1,22 +1,29 @@
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        Set<String> wordSet = new HashSet<>(wordDict);
-        boolean[] dp = new boolean[s.length() + 1];
+        int n = s.length();
+        boolean[] dp = new boolean[n + 1];
         dp[0] = true;
 
-        for (int i = 1; i <= s.length(); i++) {
-            for (int j = 0; j < i; j++) {
-                if (dp[j] && wordSet.contains(s.substring(j, i))) {
-                    dp[i] = true;
-                    break;
+        int maxLen = 0;
+        for (String word : wordDict) {
+            maxLen = Math.max(maxLen, word.length());
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (!dp[i]) continue;
+
+            for (String word : wordDict) {
+                int len = word.length();
+                if (i + len <= n && !dp[i + len]) {
+                    if (s.startsWith(word, i)) {
+                        dp[i + len] = true;
+                    }
                 }
             }
         }
 
-        return dp[s.length()];
+        return dp[n];
     }
 }
