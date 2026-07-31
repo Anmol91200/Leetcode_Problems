@@ -14,7 +14,7 @@ class Solution {
 
         for (int i = 25; i >= 0; i--) {
             if (freq[i] == 0) {
-             
+                break;
             }
             int pushesPerChar = (distinctCount / 8) + 1;
             totalPushes += freq[i] * pushesPerChar;
