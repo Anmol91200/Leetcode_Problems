@@ -8,9 +8,8 @@ class Solution {
             pdct *= num%10;
             num /=10;
         }
-        if(pdct%t==0){
+        if(pdct%t==0)
         return i;
-        }
     }
         
     }
