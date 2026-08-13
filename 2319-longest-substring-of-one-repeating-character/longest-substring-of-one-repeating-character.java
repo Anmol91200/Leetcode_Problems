@@ -18,8 +18,8 @@ class Solution {
     private Node[] tree;
 
     private Node merge(Node left, Node right) {
-        // if (left == null) return right;
-        // if (right == null) return left;
+        if (left == null) return right;
+        if (right == null) return left;
 
         Node res = new Node();
         res.leftChar = left.leftChar;
